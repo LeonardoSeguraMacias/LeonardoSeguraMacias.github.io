@@ -272,4 +272,4 @@ function myTimer() {
 
 
 </html>
-<p>hola mundo</p>
+<p>hola mundo que tal</p>
